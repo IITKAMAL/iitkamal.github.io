@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    background-color: white;
+    color: blue;
+}
+.profile-card{
+    width: 400px;
+    margin: auto;
+    background-color: ;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0,0.5 )
+}
+.img-container{
+    position: relative;
+    padding: 20px;
+}
+info{
+    color: red;
+    margin-right: auto;    
+}
+.main-container{
+    padding: 20px;
+
+}
+.skiss-bar{
+   
+    background-color:rgba(216, 195, 195, 0.067);
+    border-radius:16px;
+}
+.progress-bar{
+    text-align: center;
+    padding: 0.1em 16px;
+    border-radius: 16px;
+    color: black;
+    background-color: green;
+}
